@@ -1,6 +1,6 @@
 # ChargeIT - Electric Vehicle Charging Management System
 
-ChargeIT is a modern web application for managing electric vehicle charging stations. It provides features for both users and administrators to monitor and manage charging sessions.
+ChargeIT is a modern web application for managing electric vehicle charging stations. It provides features for users, administrators, and station owners to monitor and manage charging sessions. Only administrators can add new stations and provide credentials to station owners for logging into their dashboards.
 
 ![ChargeIT Landing Page](screenshots/landing_page.png)
 ![ChargeIT Login Page](screenshots/login_page.png)
