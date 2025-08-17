@@ -500,7 +500,7 @@ function FindStations() {
               </div>
             )}
           </div>
-        ) : (
+          ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredStations.map((station) => (
               <div key={station.id} className="bg-white border rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow">
